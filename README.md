@@ -1,1 +1,1 @@
-# Cognifz-task-1-level-3
+# Image gallery
